@@ -1,0 +1,7 @@
+**/.git
+.git
+!.git/HEAD
+!.git/refs/heads
+.idea
+
+node_modules
